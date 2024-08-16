@@ -1,0 +1,30 @@
+.footer {
+    background-color: #232227;
+}
+
+.footer .footer-title {
+    color: #fff;
+}
+
+.footer .about_footer_color {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.footer ul.footer_menu_list li a {
+    color: rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    padding: 5px 0;
+    text-decoration: none !important;
+}
+.footer .footer-border {
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 1px;
+}
+
+.footer .footer-alt .copy-rights {
+    margin: 10px 0px;
+    line-height: 60px;
+    color: rgba(255, 255, 255, 0.5) !important;
+    padding-left: 20px;
+}
+

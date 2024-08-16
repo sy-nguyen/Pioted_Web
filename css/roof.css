@@ -1,0 +1,15 @@
+:root{
+    --bs-primary: #2ed078;
+    --bs-primary-text-emphasis: #2cc672;
+    --bs-gray-900: #212529;
+    --ho-bg-color: #212529;
+
+    --bs-primary-rgb: 46, 208, 120;
+    --bs-white-rgb: 255, 255, 255;
+    --bs-secondary-rgb: 108, 117, 125;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    
+    --bs-border-radius: 0.375rem;
+    --bs-border-radius-pill: 50rem;
+   
+}
